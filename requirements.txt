@@ -1,0 +1,21 @@
+# --- Core Framework ---
+streamlit
+
+# --- Advanced UI Components ---
+# Sidebar navigation and professional icons
+streamlit-option-menu
+
+# --- Voice & Audio Intelligence ---
+# For Voice-to-Command functionality
+streamlit-mic-recorder
+
+# --- Data & Machine Learning ---
+# Essential for AI logic and processing
+pandas
+numpy
+scikit-learn
+
+# --- Networking & Environments ---
+# For API calls and secure key management
+requests
+python-dotenv
